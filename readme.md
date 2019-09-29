@@ -1,5 +1,7 @@
 # common-shakeify
 
+> A temporary fork while [common-shakeify PR #31](https://github.com/browserify/common-shakeify/pull/31) is in progress.
+
 browserify tree shaking plugin using [@indutny](https://github.com/indutny)'s [common-shake](https://github.com/indutny/common-shake)
 
 Comments out unused exports from CommonJS modules.

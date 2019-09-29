@@ -1,5 +1,5 @@
 {
-  "name": "common-shakeify",
+  "name": "@sethvincent/common-shakeify",
   "version": "1.0.0",
   "description": "browserify tree shaking plugin using @indutny common-shake",
   "main": "index.js",
